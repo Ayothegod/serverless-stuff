@@ -2,7 +2,10 @@ export default function Home() {
   return (
     <>
       <main>
-        <p className="text-2xl font-bold text-center">Yo, Lets cook!!!</p>
+        
+        <form action="">
+          input the form field here!
+        </form>
       </main>
     </>
   )
